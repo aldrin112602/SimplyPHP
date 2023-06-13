@@ -11,7 +11,8 @@
   ],
   "require": {
     "php": ">=7.4",
-    "symfony/console": "^6.3"
+    "symfony/console": "^6.3",
+    "vlucas/phpdotenv": "^5.5"
   },
   "autoload": {
     "psr-4": {
