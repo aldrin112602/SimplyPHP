@@ -1,7 +1,7 @@
 {
   "name": "simply/appstarter",
   "description": "SimplyPHP Framework",
-  "type": "library",
+  "type": "framework",
   "license": "MIT",
   "authors": [
     {
