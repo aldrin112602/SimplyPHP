@@ -1,0 +1,20 @@
+{
+  "name": "simply/appstarter",
+  "description": "SimplyPHP Framework",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Aldrin Caballero",
+      "email": "caballeroaldrin02@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Simply\\": "src/"
+    }
+  }
+}
