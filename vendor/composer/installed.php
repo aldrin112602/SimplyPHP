@@ -3,7 +3,7 @@
         'name' => 'simply/appstarter',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '89d361fbd5eb7c5b38a3d68fb754097756d6a4a5',
+        'reference' => '625e2be7dd433c4fadf4659e8f82a67ab4e4ac9e',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -46,7 +46,7 @@
         'simply/appstarter' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '89d361fbd5eb7c5b38a3d68fb754097756d6a4a5',
+            'reference' => '625e2be7dd433c4fadf4659e8f82a67ab4e4ac9e',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
