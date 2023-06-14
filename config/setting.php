@@ -1,7 +1,7 @@
 <?php
 
 $envContent = file_get_contents('../.env');
-$conf = fopen("./'config.php'", "w") or die("Unable to open config file!");
+$conf = fopen("../config/config.php", "w") or die("Unable to open config file!");
 
 $lines = explode("\n", $envContent);
 $configArray = [];
