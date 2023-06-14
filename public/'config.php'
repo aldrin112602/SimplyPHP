@@ -3,6 +3,10 @@
 
 return array (
   'DEV_ENVIRONMENT' => 'development',
+  'app' => 
+  array (
+    'baseURL' => 'http://localhost:8000/',
+  ),
   'database' => 
   array (
     'tests' => 
